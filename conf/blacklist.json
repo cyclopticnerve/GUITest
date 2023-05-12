@@ -1,0 +1,22 @@
+{
+    "skip_all": [
+        ".venv",
+        ".git",
+        "dist",
+        "docs",
+        "misc",
+        "tests",
+        "__pycache__",
+        "PKG-INFO"
+    ],
+    "skip_file": [
+        "guitest.png"
+    ],
+    "skip_header": [],
+    "skip_text": [
+        "metadata.json",
+        "metadata.py",
+        "settings.json"
+    ],
+    "skip_path": []
+}

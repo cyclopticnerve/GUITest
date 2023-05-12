@@ -1,0 +1,33 @@
+.
+├── conf
+│   ├── blacklist.json
+│   ├── metadata.json
+│   ├── metadata.py
+│   └── settings.json
+├── docs
+│   └── ABOUT
+├── misc
+│   ├── checklist.txt
+│   ├── empty_class.py
+│   ├── empty_cli.py
+│   ├── empty_mod.py
+│   ├── screenshot.jpg
+│   ├── snippets.txt
+│   ├── style.txt
+│   ├── todo.txt
+│   └── tree.txt
+├── src
+│   ├── locale
+│   │   ├── en_US.po
+│   │   └── guitest.pot
+│   ├── guitest.desktop
+│   ├── guitest-gtk3.ui
+│   ├── guitest-handler.py
+│   ├── guitest.png
+│   └── guitest.py
+├── tests
+│   └── ABOUT
+├── CHANGELOG.md
+├── LICENSE.txt
+├── README.md
+└── requirements.txt

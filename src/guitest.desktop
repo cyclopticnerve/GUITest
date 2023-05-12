@@ -1,0 +1,22 @@
+# ------------------------------------------------------------------------------
+# Project : GUITest                                                /          \
+# Filename: guitest.desktop                                       |     ()     |
+# Date    : 05/12/2023                                            |            |
+# Author  : cyclopticnerve                                        |   \____/   |
+# License : WTFPLv2                                                \          /
+# ------------------------------------------------------------------------------
+
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Terminal=false
+Categories=
+Comment=
+Exec=
+Path=
+Name=GUITest
+Icon=
+X-Desktop-File-Install-Version=0.26
+
+# -)
